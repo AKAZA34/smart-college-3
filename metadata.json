@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus AI",
+  "description": "AI-Powered Digital Campus Operating System featuring quantum-inspired campus state, attendance & CGPA predictors, intelligent study planner, and AI Campus Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
